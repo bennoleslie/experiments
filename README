@@ -1,0 +1,7 @@
+A set of various little programming experiements to find out one thing
+or another. Not unlike Rusty's junkcode directory.
+
+Index
+-----
+
+nsexecutable: Test to see if nsexecutable does NUL termination.
